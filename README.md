@@ -1,4 +1,4 @@
-#What is Market Rewind?
+# What is Market Rewind?
 
 Market Rewind is a web application that helps traders analyze their past trades to highlight any flaws or advantages to their strategies.
 
